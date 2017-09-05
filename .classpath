@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/test/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/cling-core-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/cling-support-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/DexTranslator.jar"/>
+	<classpathentry kind="lib" path="lib/fastutil-7.0.12.jar"/>
+	<classpathentry kind="lib" path="lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="lib/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="lib/mraa-1.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/protostuff-api-1.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/protostuff-collectionschema-1.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/protostuff-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/protostuff-runtime-1.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/seamless-http-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/seamless-swing-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/seamless-util-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/seamless-xml-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.13.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/mqtt-client-0.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/jrpicam-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
